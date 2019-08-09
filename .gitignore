@@ -1,4 +1,5 @@
-_sources_final/
-.ipynb_checkpoints/
-.vscode/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+_sources_final
+.vscode
 tests.ipynb
